@@ -1,0 +1,6 @@
+.venv/
+_pycache_/
+data/
+!data/finger/
+node_modules/
+finger/
